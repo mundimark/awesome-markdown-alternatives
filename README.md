@@ -87,7 +87,7 @@ Heading 2
 @@http://www.wikipedia.org/ Wikipedia@@
 ```
 
-# More Markdown Alternatives 
+## More Markdown Alternatives 
 1. [Rmarkdown](https://rmarkdown.rstudio.com/): Markdown dialect. 
 2. [scroll](https://github.com/publicdomaincompany/scroll): Extensible alternative to Markdown. 
 3. [unidok](https://github.com/Aloso/unidok): Powerful Asciidoctor alternative with Markdown syntax.
@@ -101,3 +101,10 @@ Heading 2
 11. [.bullet](https://github.com/cameronblandford/.bullet): A Markdown alternative designed for bullet journaling.
 12. [SR-Markup-Lang](https://github.com/BluFedora/SR-Markup-Lang): An alternative to Markdown for my blogging needs.
 13. [Remark](https://github.com/BradSharp/Remark): A simple backwards-compatible alternative to Markdown.
+
+
+## Notes
+Add link to Wikipedia light-weight markup languages
+
+Add link to Wiki Matrix ??
+
