@@ -31,7 +31,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 
 <!-- toc! -->
 
-# Markdown Syntax Extensions Alternatives
+# Markdown Syntax or Extensions Alternatives
 
 ### Wikipedia [Wikitext](http://en.wikipedia.org/wiki/Help:Wiki_markup) / Wikicode
 Wiki markup used by Wikipedia and friends
