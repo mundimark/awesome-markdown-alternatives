@@ -160,6 +160,17 @@ Plain text to-do lists with format todo.txt
 
 ### [Plain Text Accounting](https://plaintextaccounting.org/)
 Plain text accounting is a way of doing bookkeeping and accounting with plain text files and scriptable, command-line-friendly software, such as Ledger, hledger, or Beancount.
+```
+; a comment
+
+2016/1/1 Heading 1
+   bold:checking       $500.00
+   bold:opening balances
+
+2016/1/5 Heading 2
+   bold:groceries     $50.00
+   bold:checking
+```
 
 ## Articles
 - [Try AsciiDoc instead of Markdown](https://opensource.com/article/22/8/drop-markdown-asciidoc)
