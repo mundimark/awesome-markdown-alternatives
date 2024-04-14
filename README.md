@@ -153,7 +153,28 @@ Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML
 A Markdown alternative
 
 ### [jot](https://github.com/shbhrsaha/jot)
-An alternative Markdown language specially-designed for intuitive, efficient note-taking.
+An alternative Markdown language specially-designed for intuitive, efficient note-taking
+```
+Your Title Here
+Author Name Here
+
+_ Section Title
+_ _ Subsection Title
+First paragraph stuff goes here.
+
+Leave a blank line to mark the next new paragraph.
+
+- first item in list
+- second item in list
+
+_image This is the title of the image (title optional)
+graph1.png
+This is the image caption
+
+_ Remarks
+
+I should make the following remarks:
+```
 
 ### [alt](https://github.com/qeaml/alt)
 Markdown alternative.
