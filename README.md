@@ -134,7 +134,6 @@ pParser
 p We can then make paragraphs using `p`.
 ```
 
-
 ### [unidok](https://github.com/Aloso/unidok)
 Powerful Asciidoctor alternative with Markdown syntax
 ```
@@ -156,9 +155,52 @@ DrawTextStyle("~Hellooo~ :D", 100,100, DARKGRAY)
 
 ### [ssmd](https://github.com/machisuji/ssmd)
 Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML
+```
+require 'ssmd'
+
+ssmd = "hello *SSMD*!"
+ssml = SSMD.to_ssml ssmd
+
+puts ssml
+# Output: <speak>hello <emphasis>SSMD</emphasis>!</speak>
+```
 
 ### [johndown](https://github.com/jcinnamond/johndown)
 A Markdown alternative
+```
+~italic~
+*bold*
+
+`code`
+
+(link name)http://some/thing
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+
+:code:
+Some code
+:code:
+
+:quote:
+A blockquote
+:quote:
+
+:dnf:
+Some format
+:dnf:
+
+1. Numbered list item
+- Unordered list item
+
+----- HR
+
+\* escape
+```
+
 
 ### [jot](https://github.com/shbhrsaha/jot)
 An alternative Markdown language specially-designed for intuitive, efficient note-taking
