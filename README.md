@@ -1,13 +1,11 @@
 # Awesome Markdown Alternatives
 A collection of awesome light-weight markup markdown alternatives (libraries, services, editors, tools, cheatsheets, etc.) 
 
-Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
-
 ---
 
 [ANNOUNCEMENT] Looking for the latest news, tools, tips & tricks, and more
 about markdown and friends?
-Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manuscriptsnews)) channel on twitter for updates.
+Follow along the Manuscripts News ([@awesome-markdown-alternatives](https://github.com/manuscriptsnews)) channel on twitter for updates.
 
 ---
 
