@@ -389,11 +389,12 @@ For managing todos, I use bullet journal. Bullet Journalling has become quite a 
 - [Use Plain Text E-mail](https://useplaintext.email/)
 - [I still use plain text for everything and I love it](https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840)
 - [dariubs/awesome-markdown](https://github.com/dariubs/awesome-markdown)
-- http://andybrandt531.com/2015/03/markdown-for-bloggers-part-6-monster-list-of-markdown-tools/
-- https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools
-- https://github.com/topics/bullet-journal?o=desc&s=updated
-- https://github.com/topics/bullet-journal
-- https://github.com/topics/bullet-journal?o=desc&s=forks
+- [Bullet Journal for RPGs](https://bulletjournal.com/blogs/bulletjournalist/bullet-journals-for-rpgs)
+- [Markdown for Bloggers](http://andybrandt531.com/2015/03/markdown-for-bloggers-part-6-monster-list-of-markdown-tools/)
+- [Other Markdown Tools](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
+- [GitHub Bullet Jornal Research](https://github.com/topics/bullet-journal?o=desc&s=updated)
+- [GitHub Bullet Jornal Alternatives](https://github.com/topics/bullet-journal?o=desc&s=forks)
+- [GitHub Bullet Jornal Types](https://github.com/topics/bullet-journal)
 
 
 ## Meta
