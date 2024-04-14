@@ -141,7 +141,34 @@ superscript^2^
 ###### Header 6 
 ```
 
-### foam
+### [foam](https://foambubble.github.io/)
+Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub. Foam uses standard Markdown, with a few added twists:
+- the title of a note (e.g. in the Graph Visualization) is given by precedence based on:
+- the title property (see Note Properties)
+- the first # heading 1 of the file
+- the file name
+
+### [TodoFlow](https://github.com/bevesce/TodoFlow)
+Tools for working with plain text todo lists.
+```
+project 1:
+    - task 1
+    - task 2 @today
+project 2:
+    - task 3
+```
+
+### [Plaintodo](https://github.com/ota42y/plaintodo)
+plain text based todo list .plaintodo
+```
+// ./tasks/home_tasks.txt have 3 tasks
+
+home :subTaskFile ./tasks/home_tasks.txt
+  task 1 in home_tasks.txt
+  task 2 in home_tasks.txt
+  task 3 in home_tasks.txt
+```
+
 
 ### [scroll](https://github.com/publicdomaincompany/scroll)
 Extensible alternative to Markdown
