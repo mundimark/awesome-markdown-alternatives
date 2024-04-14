@@ -447,9 +447,10 @@ For managing todos, I use bullet journal. Bullet Journalling has become quite a 
 - [Bullet Journal for RPGs](https://bulletjournal.com/blogs/bulletjournalist/bullet-journals-for-rpgs)
 - [Markdown for Bloggers](http://andybrandt531.com/2015/03/markdown-for-bloggers-part-6-monster-list-of-markdown-tools/)
 - [Other Markdown Tools](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
-- [GitHub Bullet Jornal Research](https://github.com/topics/bullet-journal?o=desc&s=updated)
-- [GitHub Bullet Jornal Alternatives](https://github.com/topics/bullet-journal?o=desc&s=forks)
-- [GitHub Bullet Jornal Types](https://github.com/topics/bullet-journal)
+- [GitHub Bullet Journal Research](https://github.com/topics/bullet-journal?o=desc&s=updated)
+- [GitHub Bullet Journal Alternatives](https://github.com/topics/bullet-journal?o=desc&s=forks)
+- [GitHub Bullet Journal Types](https://github.com/topics/bullet-journal)
+- [GitHub Bullet Journal Typescript](https://github.com/topics/bullet-journal?l=typescript)
 
 
 ## Meta
