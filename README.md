@@ -145,6 +145,14 @@ Absurd claim. [This is some footnote text][^] [Another footnote][^]
 
 ### [Raylib_DrawTextStyle](https://github.com/NightenDushi/Raylib_DrawTextStyle)
 An alternative DrawText function with basic Markdown and custom line spacing
+```
+*italic*
+**Bold**
+~wave animation~
+~~crossed~~
+__underline__
+DrawTextStyle("~Hellooo~ :D", 100,100, DARKGRAY)
+```
 
 ### [ssmd](https://github.com/machisuji/ssmd)
 Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML
