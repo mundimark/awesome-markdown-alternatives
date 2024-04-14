@@ -117,7 +117,21 @@ Lightweight markup for colored documents
 Markdown dialect.
 
 ### [scroll](https://github.com/publicdomaincompany/scroll)
-Extensible alternative to Markdown.
+Extensible alternative to Markdown
+```
+import header.scroll
+
+wideColumns 1
+
+title Scroll Tutorial
+
+belowAsCode 2
+pParser
+ extends thoughtParser
+ crux p
+p We can then make paragraphs using `p`.
+```
+
 
 ### [unidok](https://github.com/Aloso/unidok)
 Powerful Asciidoctor alternative with Markdown syntax.
@@ -131,14 +145,23 @@ Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML.
 ### [johndown](https://github.com/jcinnamond/johndown)
 A Markdown alternative
 
-#### [jot](https://github.com/shbhrsaha/jot)
+### [jot](https://github.com/shbhrsaha/jot)
 An alternative Markdown language specially-designed for intuitive, efficient note-taking.
 
-#### [alt](https://github.com/qeaml/alt)
+### [alt](https://github.com/qeaml/alt)
 Markdown alternative.
 
 ### [strawdown](https://github.com/LastCleanShirt/strawdown)
 Straw Down Markdown Alternative.
+
+### [mystmd](https://mystmd.org/)
+```
+MyST makes Markdown more _extensible_ & **powerful** to support an ecosystem of tools for computational narratives, technical documentation, and open scientific communication.
+
+:::{important} Our Values
+We believe in a community-driven approach of open-source tools that are composable and extensible.
+:::
+```
 
 ### [markzwei](https://github.com/seiferson/markzwei)
 A Markdown alternative
