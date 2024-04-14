@@ -458,6 +458,7 @@ For managing todos, I use bullet journal. Bullet Journalling has become quite a 
 - [GitHub Bullet Journal Alternatives](https://github.com/topics/bullet-journal?o=desc&s=forks)
 - [GitHub Bullet Journal Types](https://github.com/topics/bullet-journal)
 - [GitHub Bullet Journal Typescript](https://github.com/topics/bullet-journal?l=typescript)
+- [One week bullet journaling with Markdown + Syncthing](https://blog.fibasile.com/one-week-bullet-journaling/)
 
 
 ## Meta
