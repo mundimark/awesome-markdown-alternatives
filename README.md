@@ -257,6 +257,17 @@ Wil produce: <paragraph>* *    *</paragraph>
 
 ### [.bullet](https://github.com/cameronblandford/.bullet)
 A Markdown alternative designed for bullet journaling
+
+### [markdown-bullet-journal](https://github.com/dballard/markdown-bullet-journal)
+A digital bullet journal using markdown and daily migrations
+```
+- Complex task
+    - [ ] Subpart A
+        - [x] Task 1
+```
+
+### [.bulletjournal.md](https://github.com/fulgor/bulletjournal.md)
+Bullet Journal in an plain textfile with Markdown formatting
 ```
 .  task [2]
 x  done
@@ -303,6 +314,39 @@ This is task.
 - [-] This task has been declined
 ```
 
+### [bujo](https://github.com/mihaiconstantin/bujo)
+Bullet Journal syntax highlighting in VS Code Markdown files. BuJo goes beyond syntax highlighting and taps into time tracking and time blocking methodologies (e.g., Newport, 2016). To this end, BuJo proposes commands and keybindings to effortlessly update task statuses, plan working days, and track the time spent on tasks.
+```
+- [ ] Represents a task.
+- [x] Represents a completed task.
+- [>] Represents a task migrated forward.
+- [<] Represents a task migrated backward.
+- [/] Represents a task in progress.
+- [-] Represents a dropped task.
+- [o] Represents an event.
+- Represents a note. Nothing special about it.
+```
+
+
+### [monthly-planning-files](https://github.com/ryan-p-randall/monthly-planning-files)
+Text files to help plan & log whatever it is you do. Bullet journal + pomodoro technique + text editors + cloud syncing = progress.
+```
+#### 2019-12-03 Tuesday  
+
+1. [x] 10:00am--11:00am | Meeting, Office 110  
+2. [ ] 2:00pm--2:30pm | Get over to Main Library  
+3. [ ] 2:30pm--5:00pm | Reference Desk Shift, Main Library  
+
+<!-- -->  
+
+- [x] start writing documentation for `monthly-planning-files` project @done(added sections; still need to go into detail about tags, why there are HTML comments, etc)  
+  - [x] start a changelog @done(15minutes)  
+- [ ] add detail to `monthly-planning-files` documentation  
+  - [ ] give tag examples  
+  - [ ] explain html comments  
+- [ ] proofread documentation
+```
+
 ### [Todo.txt](http://todotxt.org/)
 Plain text to-do lists with format todo.txt
 ```
@@ -325,6 +369,21 @@ Plain text accounting is a way of doing bookkeeping and accounting with plain te
    bold:checking
 ```
 
+### [bullet-journalling by Josh](https://josh.vanderhook.info/2021-03-bullet-journalling.html)
+For managing todos, I use bullet journal. Bullet Journalling has become quite a fad lately, with frothing-at-the-mouth reviews like “It will make you a better person!” How can you argue with that simple, artistically drawn ven diagram where it lies at the center of “Why” and “What”?
+```
+- [ ] water the lawn
+- [x] write up analysis for steve
+- [>] complete AAS paper revisions
+- [>] Add image to Keck report
+- [x] take dog on a walk
+- [ ] schedule a doctor appointment
+- [ ] water the lawn
+- [^] cross-compile scheduler 
+- [-] runtime reports 
+- [v] pick up vitamins
+```
+
 ## Articles
 - [Try AsciiDoc instead of Markdown](https://opensource.com/article/22/8/drop-markdown-asciidoc)
 - [Use Plain Text E-mail](https://useplaintext.email/)
@@ -332,6 +391,10 @@ Plain text accounting is a way of doing bookkeeping and accounting with plain te
 - [dariubs/awesome-markdown](https://github.com/dariubs/awesome-markdown)
 - http://andybrandt531.com/2015/03/markdown-for-bloggers-part-6-monster-list-of-markdown-tools/
 - https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools
+- https://github.com/topics/bullet-journal?o=desc&s=updated
+- https://github.com/topics/bullet-journal
+- https://github.com/topics/bullet-journal?o=desc&s=forks
+
 
 ## Meta
 
