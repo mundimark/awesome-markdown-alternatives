@@ -278,12 +278,6 @@ _ Remarks
 I should make the following remarks:
 ```
 
-### [alt](https://github.com/qeaml/alt)
-Markdown alternative.
-
-### [strawdown](https://github.com/LastCleanShirt/strawdown)
-Straw Down Markdown Alternative.
-
 ### [mystmd](https://mystmd.org/)
 ```
 MyST makes Markdown more _extensible_ & **powerful** to support an ecosystem of tools for computational narratives, technical documentation, and open scientific communication.
