@@ -200,7 +200,16 @@ An alternative to Markdown for my blogging needs
 ```
 
 ### [Remark](https://github.com/BradSharp/Remark)
-A simple backwards-compatible alternative to Markdown.
+A simple backwards-compatible alternative to Markdown. In Remark each modifier has a unique symbol, this avoids any ambiguity when rendering them:
+
+Modifier | Remark | Markdown
+--- | --- | ---
+Bold | `!!Bold!!` | `**Bold**` or `__Bold__`
+Italic | `**Italic**` | `*Italic*` or `_Italic_`
+Underline | `__Underline__` | Unsupported
+Strikethrough | `~~Strikethrough~~` | `~~Strikethrough~~`
+Monospace | ``` ``Monospace`` ``` | `` `Monospace` ``
+
 
 ### [Todo.md (MMD)](https://github.com/todo-md/todo-md)
 Plain text to-do lists todo.md
