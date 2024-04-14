@@ -456,6 +456,7 @@ For managing todos, I use bullet journal. Bullet Journalling has become quite a 
 - [Other Markdown Tools](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
 - [GitHub Bullet Journal Research](https://github.com/topics/bullet-journal?o=desc&s=updated)
 - [GitHub Bullet Journal Alternatives](https://github.com/topics/bullet-journal?o=desc&s=forks)
+- [rmarkdown, Cheatsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)
 - [GitHub Bullet Journal Types](https://github.com/topics/bullet-journal)
 - [GitHub Bullet Journal Typescript](https://github.com/topics/bullet-journal?l=typescript)
 - [One week bullet journaling with Markdown + Syncthing](https://blog.fibasile.com/one-week-bullet-journaling/)
