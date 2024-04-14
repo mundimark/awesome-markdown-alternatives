@@ -102,7 +102,15 @@ Bulletin board code
 [url=https://www.wikipedia.org/]Wikipedia[/url] 
 ```
 
-### [Dendron](https://wiki.dendron.so/)
+### [Dendron todo](https://wiki.dendron.so/)
+This goes over how we format todo notes at Dendron.
+
+```
+- [x] foo task <!-- finished task -->
+- [d] foo task <!-- not doing task, no longer relevant -->
+- [.n] foo task <!-- got to task but not done, moving to tomorrow. note that statuses can be stacked -->
+- [m] foo task <!-- did not get to task, moving to backlog -->
+```
 
 ### [Pendown](https://github.com/senselogic/PENDOWN)
 Lightweight markup for colored documents
