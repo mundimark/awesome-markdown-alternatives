@@ -133,6 +133,8 @@ superscript^2^
 ###### Header 6 
 ```
 
+### foam
+
 ### [scroll](https://github.com/publicdomaincompany/scroll)
 Extensible alternative to Markdown
 ```
@@ -272,6 +274,16 @@ Wil produce: <paragraph>* *    *</paragraph>
 
 ### [.bullet](https://github.com/cameronblandford/.bullet)
 A Markdown alternative designed for bullet journaling
+```
+- [ ] Todo
+- [x] Finished todo
+- [>] Migrated from daily log to new monthly log
+- [<] Migrated to appropriate month in future log
+- [~] Not worth doing
+- note
+* event
+- [[ ]] Important todo
+```
 
 ### [markdown-bullet-journal](https://github.com/dballard/markdown-bullet-journal)
 A digital bullet journal using markdown and daily migrations
