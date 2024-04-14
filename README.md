@@ -19,7 +19,6 @@ Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manusc
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-
 ## Table of Contents
 
 <!--
@@ -41,11 +40,10 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 
 <!-- toc! -->
 
-# Markdown Alternatives
+# Markdown Syntax Extensions Alternatives
 
-### Wikipedia Wikitext / Wikicode
-
-- [Wikitext](http://en.wikipedia.org/wiki/Help:Wiki_markup) - wiki markup used by Wikipedia and friends
+### Wikipedia [Wikitext](http://en.wikipedia.org/wiki/Help:Wiki_markup) / Wikicode
+Wiki markup used by Wikipedia and friends
 
 ```
 = Heading 1 =
@@ -55,9 +53,8 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 [http://www.wikipedia.org/ Wikipedia]
 ```
 
-### Creole
-
-- [Creole](http://en.wikipedia.org/wiki/Creole_(markup))  - "Standardized" core Wikitext markup
+### [Creole](http://en.wikipedia.org/wiki/Creole_(markup))
+"Standardized" core Wikitext markup
 
 ```
 = Heading 1 =
@@ -67,10 +64,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 [http://www.wikipedia.org/|Wikipedia]
 ```
 
-### AsciiDoc
-
-- [AsciiDoc](http://en.wikipedia.org/wiki/AsciiDoc)
-
+### [AsciiDoc](http://en.wikipedia.org/wiki/AsciiDoc)
 ```
 = Heading 1
 == Heading 2
@@ -79,10 +73,7 @@ __italics__
 http://www.wikipedia.org/[Wikipedia]
 ```
 
-### Textile
-
-- [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language))
-
+### [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language))
 ```
 h1. Heading 1
 h2. Heading 2
@@ -91,10 +82,7 @@ _italics_
 "Wikipedia":http://www.wikipedia.org/
 ```
 
-### reStructuredText (rst, reST)
-
-- [reStructuredText (rst, reST)](http://en.wikipedia.org/wiki/ReStructuredText)
-
+### reStructuredText (rst, reST)](http://en.wikipedia.org/wiki/ReStructuredText)
 ```
 Heading 1
 =========
@@ -105,10 +93,8 @@ Heading 2
 .. _Wikipedia: https://www.wikipedia.org/
 ```
 
-### BBCode
-
-- [BBCode](http://en.wikipedia.org/wiki/BBCode) - bulletin board code
-
+### [BBCode](http://en.wikipedia.org/wiki/BBCode)
+Bulletin board code
 ```
 [heading]Heading 1[/heading]
 [b]bold[b]
@@ -116,9 +102,8 @@ Heading 2
 [url=https://www.wikipedia.org/]Wikipedia[/url] 
 ```
 
-### Pendown
-
-- [Pendown](https://github.com/senselogic/PENDOWN) - lightweight markup for colored documents
+### [Pendown](https://github.com/senselogic/PENDOWN)
+Lightweight markup for colored documents
 
 ```
 ! Heading 1
@@ -128,23 +113,53 @@ Heading 2
 @@http://www.wikipedia.org/ Wikipedia@@
 ```
 
-## Markdown Syntax Extensions Alternatives
-- [Rmarkdown](https://rmarkdown.rstudio.com/): Markdown dialect.
-- [scroll](https://github.com/publicdomaincompany/scroll): Extensible alternative to Markdown.
-- [unidok](https://github.com/Aloso/unidok): Powerful Asciidoctor alternative with Markdown syntax.
-- [Raylib_DrawTextStyle](https://github.com/NightenDushi/Raylib_DrawTextStyle): An alternative DrawText function with basic Markdown and custom line spacing.
-- [ssmd](https://github.com/machisuji/ssmd): Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML.
-- [johndown](https://github.com/jcinnamond/johndown): A Markdown alternative.
-- [jot](https://github.com/shbhrsaha/jot): An alternative Markdown language specially-designed for intuitive, efficient note-taking.
-- [alt](https://github.com/qeaml/alt): Markdown alternative.
-- [strawdown](https://github.com/LastCleanShirt/strawdown): Straw Down Markdown Alternative.
-- [markzwei](https://github.com/seiferson/markzwei): A Markdown alternative.
-- [.bullet](https://github.com/cameronblandford/.bullet): A Markdown alternative designed for bullet journaling.
-- [SR-Markup-Lang](https://github.com/BluFedora/SR-Markup-Lang): An alternative to Markdown for my blogging needs.
-- [Remark](https://github.com/BradSharp/Remark): A simple backwards-compatible alternative to Markdown.
-- [Todo.md (MMD)](https://github.com/todo-md/todo-md): Plain text to-do lists todo.md
-- [Todo.txt](http://todotxt.org/): Plain text to-do lists with format todo.txt
-- [Plain Text Accounting](https://plaintextaccounting.org/): Plain text accounting is a way of doing bookkeeping and accounting with plain text files and scriptable, command-line-friendly software, such as Ledger, hledger, or Beancount.
+### [Rmarkdown](https://rmarkdown.rstudio.com/)
+Markdown dialect.
+
+### [scroll](https://github.com/publicdomaincompany/scroll)
+Extensible alternative to Markdown.
+
+### [unidok](https://github.com/Aloso/unidok)
+Powerful Asciidoctor alternative with Markdown syntax.
+
+### [Raylib_DrawTextStyle](https://github.com/NightenDushi/Raylib_DrawTextStyle)
+An alternative DrawText function with basic Markdown and custom line spacing.
+
+### [ssmd](https://github.com/machisuji/ssmd)
+Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML.
+
+### [johndown](https://github.com/jcinnamond/johndown)
+A Markdown alternative
+
+#### [jot](https://github.com/shbhrsaha/jot)
+An alternative Markdown language specially-designed for intuitive, efficient note-taking.
+
+#### [alt](https://github.com/qeaml/alt)
+Markdown alternative.
+
+### [strawdown](https://github.com/LastCleanShirt/strawdown)
+Straw Down Markdown Alternative.
+
+### [markzwei](https://github.com/seiferson/markzwei)
+A Markdown alternative.
+
+### [.bullet](https://github.com/cameronblandford/.bullet)
+A Markdown alternative designed for bullet journaling.
+
+### [SR-Markup-Lang](https://github.com/BluFedora/SR-Markup-Lang)
+An alternative to Markdown for my blogging needs.
+
+### [Remark](https://github.com/BradSharp/Remark)
+A simple backwards-compatible alternative to Markdown.
+
+### [Todo.md (MMD)](https://github.com/todo-md/todo-md)
+Plain text to-do lists todo.md
+
+### [Todo.txt](http://todotxt.org/)
+Plain text to-do lists with format todo.txt
+
+#### [Plain Text Accounting](https://plaintextaccounting.org/)
+Plain text accounting is a way of doing bookkeeping and accounting with plain text files and scriptable, command-line-friendly software, such as Ledger, hledger, or Beancount.
 
 ## Articles
 - [Try AsciiDoc instead of Markdown](https://opensource.com/article/22/8/drop-markdown-asciidoc)
