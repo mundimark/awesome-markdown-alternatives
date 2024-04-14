@@ -5,7 +5,7 @@ A collection of awesome light-weight markup markdown alternatives (libraries, se
 
 [ANNOUNCEMENT] Looking for the latest news, tools, tips & tricks, and more
 about markdown and friends?
-Follow along the Manuscripts News ([@awesome-markdown-alternatives](https://github.com/manuscriptsnews)) channel on twitter for updates.
+Follow along the MundiMark News ([@mundimark](https://github.com/mundimark/awesome-markdown-alternatives)) channel on github for updates.
 
 ---
 
