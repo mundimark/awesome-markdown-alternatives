@@ -25,9 +25,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 
 <!-- !toc (minlevel=2 omit="Table of Contents") -->
 
-* [Markdown Alternatives](#markdown)
-* [Markdown Syntax Extensions Alternatives](#markdown-syntax-extensions)
-  * [Todo.md (.todo)](#multimarkdown-mmd)
+* [Markdown Syntax Extensions Alternatives](#markdown)
 * [Articles](#articles)
 * [Meta](#meta)
 
@@ -45,6 +43,15 @@ Wiki markup used by Wikipedia and friends
 ''italics''
 [http://www.wikipedia.org/ Wikipedia]
 ```
+
+### [Djot](https://djot.net/)
+Djot is a light markup syntax. It derives most of its features from commonmark, but it fixes a few things that make commonmark's syntax complex and difficult to parse efficiently. It is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content. The project began as an attempt to implement some of the ideas I suggested in Beyond Markdown.
+```
+_This is *regular_ not strong* emphasis
+[My link text][]
+[My link text]: /url
+```
+
 
 ### [Creole](http://en.wikipedia.org/wiki/Creole_(markup))
 "Standardized" core Wikitext markup
