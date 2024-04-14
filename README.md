@@ -257,6 +257,15 @@ Wil produce: <paragraph>* *    *</paragraph>
 
 ### [.bullet](https://github.com/cameronblandford/.bullet)
 A Markdown alternative designed for bullet journaling
+```
+.  task [2]
+x  done
+>  postponed
+o  event
+a  abandoned
+w  waiting for [person | circumstance]
+!  adds priority
+```
 
 ### [SR-Markup-Lang](https://github.com/BluFedora/SR-Markup-Lang)
 An alternative to Markdown for my blogging needs
