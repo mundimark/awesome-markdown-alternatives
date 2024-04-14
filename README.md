@@ -141,10 +141,21 @@ Markdown alternative.
 Straw Down Markdown Alternative.
 
 ### [markzwei](https://github.com/seiferson/markzwei)
-A Markdown alternative.
+A Markdown alternative
+```
+ ***
+Will produce: <horizontalrule />
+
+    * * * *
+Will produce: <horizontalrule />
+
+* *    *
+Wil produce: <paragraph>* *    *</paragraph>
+(Max 1 space character is allowed between asterisks)
+```
 
 ### [.bullet](https://github.com/cameronblandford/.bullet)
-A Markdown alternative designed for bullet journaling.
+A Markdown alternative designed for bullet journaling
 
 ### [SR-Markup-Lang](https://github.com/BluFedora/SR-Markup-Lang)
 An alternative to Markdown for my blogging needs.
