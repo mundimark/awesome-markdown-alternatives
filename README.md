@@ -102,6 +102,8 @@ Bulletin board code
 [url=https://www.wikipedia.org/]Wikipedia[/url] 
 ```
 
+### [Dendron](https://wiki.dendron.so/)
+
 ### [Pendown](https://github.com/senselogic/PENDOWN)
 Lightweight markup for colored documents
 
@@ -116,6 +118,19 @@ Lightweight markup for colored documents
 ### [Rmarkdown](https://rmarkdown.rstudio.com/)
 Markdown dialect
 ```
+Plain text
+End a line with two spaces to start a new paragraph.
+*italics* and _italics_
+**bold** and __bold__
+superscript^2^
+~~strikethrough~~
+[link](www.rstudio.com)
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6 
 ```
 
 ### [scroll](https://github.com/publicdomaincompany/scroll)
@@ -369,7 +384,7 @@ Plain text accounting is a way of doing bookkeeping and accounting with plain te
    bold:checking
 ```
 
-### [bullet-journalling by Josh](https://josh.vanderhook.info/2021-03-bullet-journalling.html)
+### [Bullet journal in plain bash](https://josh.vanderhook.info/2021-03-bullet-journalling.html)
 For managing todos, I use bullet journal. Bullet Journalling has become quite a fad lately, with frothing-at-the-mouth reviews like “It will make you a better person!” How can you argue with that simple, artistically drawn ven diagram where it lies at the center of “Why” and “What”?
 ```
 - [ ] water the lawn
