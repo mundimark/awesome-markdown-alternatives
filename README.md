@@ -136,13 +136,18 @@ p We can then make paragraphs using `p`.
 
 
 ### [unidok](https://github.com/Aloso/unidok)
-Powerful Asciidoctor alternative with Markdown syntax.
+Powerful Asciidoctor alternative with Markdown syntax
+```
+Absurd claim. [This is some footnote text][^] [Another footnote][^]
+
+@FOOTNOTES
+```
 
 ### [Raylib_DrawTextStyle](https://github.com/NightenDushi/Raylib_DrawTextStyle)
-An alternative DrawText function with basic Markdown and custom line spacing.
+An alternative DrawText function with basic Markdown and custom line spacing
 
 ### [ssmd](https://github.com/machisuji/ssmd)
-Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML.
+Speech Synthesis Markdown (SSMD) is a lightweight alternative syntax for SSML
 
 ### [johndown](https://github.com/jcinnamond/johndown)
 A Markdown alternative
