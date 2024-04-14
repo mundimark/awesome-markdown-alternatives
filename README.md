@@ -114,7 +114,9 @@ Lightweight markup for colored documents
 ```
 
 ### [Rmarkdown](https://rmarkdown.rstudio.com/)
-Markdown dialect.
+Markdown dialect
+```
+```
 
 ### [scroll](https://github.com/publicdomaincompany/scroll)
 Extensible alternative to Markdown
@@ -181,16 +183,39 @@ Wil produce: <paragraph>* *    *</paragraph>
 A Markdown alternative designed for bullet journaling
 
 ### [SR-Markup-Lang](https://github.com/BluFedora/SR-Markup-Lang)
-An alternative to Markdown for my blogging needs.
+An alternative to Markdown for my blogging needs
+```
+@TagWithNoContentOrAttributes
+
+@TagWithNoAttributes { Some Content }
+
+@TagWithNoContent(Attrib = "Hello")
+
+@"Tag With Spaces In The Name"
+```
 
 ### [Remark](https://github.com/BradSharp/Remark)
 A simple backwards-compatible alternative to Markdown.
 
 ### [Todo.md (MMD)](https://github.com/todo-md/todo-md)
 Plain text to-do lists todo.md
+```
+# TODO
+This text is not a task.
+
+# DONE
+This is task.
+- [x] This task is done #prio1
+- [-] This task has been declined
+```
 
 ### [Todo.txt](http://todotxt.org/)
 Plain text to-do lists with format todo.txt
+```
+Really gotta call Mom (A) @phone @someday
+(b) Get back to the boss
+(B)->Submit TPS report
+```
 
 ### [Plain Text Accounting](https://plaintextaccounting.org/)
 Plain text accounting is a way of doing bookkeeping and accounting with plain text files and scriptable, command-line-friendly software, such as Ledger, hledger, or Beancount.
