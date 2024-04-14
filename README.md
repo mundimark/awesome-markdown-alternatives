@@ -82,7 +82,7 @@ _italics_
 "Wikipedia":http://www.wikipedia.org/
 ```
 
-### reStructuredText (rst, reST)](http://en.wikipedia.org/wiki/ReStructuredText)
+### [reStructuredText (rst, reST)](http://en.wikipedia.org/wiki/ReStructuredText)
 ```
 Heading 1
 =========
