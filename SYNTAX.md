@@ -49,6 +49,16 @@ _This is *regular_ not strong* emphasis
 [My link text]: /url
 ```
 
+### [Carve](https://markup-carve.github.io/carve/)
+A post-Markdown lightweight markup language. It derives from Djot and CommonMark but distinguishes three separate inline marks - *strong*, /emphasis/, and _underline_ - and adds features such as math, definition lists, footnotes, citations, and cross-references. It ships multiple engine implementations (JavaScript, Rust, PHP).
+```
+# Heading 1
+## Heading 2
+*bold*
+/italics/
+[Wikipedia](https://www.wikipedia.org/)
+```
+
 
 ### [Creole](http://en.wikipedia.org/wiki/Creole_(markup))
 "Standardized" core Wikitext markup

@@ -86,3 +86,27 @@ Heading 2
 %%italics%%
 @@http://www.wikipedia.org/ Wikipedia@@
 ```
+
+## Djot
+
+- [Djot](https://djot.net/) - a light markup syntax derived from CommonMark, by John MacFarlane
+
+```
+# Heading 1
+## Heading 2
+*bold*
+_italics_
+[Wikipedia](https://www.wikipedia.org/)
+```
+
+## Carve
+
+- [Carve](https://markup-carve.github.io/carve/) - a post-Markdown lightweight markup language
+
+```
+# Heading 1
+## Heading 2
+*bold*
+/italics/
+[Wikipedia](https://www.wikipedia.org/)
+```
