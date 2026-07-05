@@ -93,3 +93,24 @@ Heading 2
 %%italics%%
 @@http://www.wikipedia.org/ Wikipedia@@
 ```
+
+
+## More
+
+## Org Mode
+
+see 
+- <https://orgmode.org/manual/Markup-for-Rich-Contents.html>
+- <https://orgmode.org/guide/Headlines.html>
+
+## Typst
+_the best of markdown and LaTex_   
+
+see 
+- <https://github.com/typst/typst>
+- <https://typst.app>
+
+
+
+
+
