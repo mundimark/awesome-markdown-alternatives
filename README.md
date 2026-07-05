@@ -2,7 +2,7 @@
 
 A collection of awesome light-weight markup markdown alternatives 
 
-> ![NOTE]
+> [!NOTE]
 >  For improved markdown markups
 >  that try to square the circle by (i) trying to keep the good parts of markdown, (ii) dropping the ugly parts and
 >   (iii) adding the missing parts - see the [awesome markdown & beyond page](https://github.com/mundimark/awesome-markdown).
@@ -22,7 +22,7 @@ A collection of awesome light-weight markup markdown alternatives
 [http://www.wikipedia.org/ Wikipedia]
 ```
 
-## Creole
+### Creole
 
 - [Creole](http://en.wikipedia.org/wiki/Creole_(markup))  - "Standardized" core Wikitext markup
 
