@@ -3,10 +3,9 @@
 A collection of awesome light-weight markup markdown alternatives 
 
 > [!NOTE]
->  For improved markdown markups
+>  For improved markdown markups incl. Djot, Versadoc, Texti (Text w/ Instructions), Carve, & More 
 >  that try to square the circle by (i) trying to keep the good parts of markdown, (ii) dropping the ugly parts and
 >   (iii) adding the missing parts - see the [awesome markdown & beyond page](https://github.com/mundimark/awesome-markdown).
->   Highlights incl. Djot, Versadoc, Texti (Text w/ Instructions), Carve, & More
 
 
 
